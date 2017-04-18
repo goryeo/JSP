@@ -15,11 +15,11 @@ public class BDto {
 	int bIndent;
 	
 	public BDto() {
-		// TODO Auto-generated constructor stub
+        // TODO Auto-generated constructor stub
 	}
 	
 	public BDto(int bId, String bName, String bTitle, String bContent, Timestamp bDate, int bHit, int bGroup, int bStep, int bIndent) {
-		// TODO Auto-generated constructor stub
+        // TODO Auto-generated constructor stub
 		this.bId = bId;
 		this.bName = bName;
 		this.bTitle = bTitle;
